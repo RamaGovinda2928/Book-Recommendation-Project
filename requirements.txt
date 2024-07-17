@@ -1,0 +1,11 @@
+streamlit
+pandas
+image
+numpy
+requests
+Pillow
+matplotlib
+scikit-learn
+stop-words==2018.7.23
+scikit-surprise
+altair<5
